@@ -2,10 +2,7 @@
  Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
  
-# Configuração de Pesquisa com Azure Cognitive Search
-
-Neste guia, vou mostrar como configurar uma pesquisa utilizando o Azure Cognitive Search para indexação e consulta de dados.
-
+## Configuração de Pesquisa com Azure Cognitive Search
 ## Passo 1: Criar um Serviço de Azure Cognitive Search
 
 1. Acesse o [Portal do Azure](https://portal.azure.com/) e clique em "Criar um recurso".
@@ -51,4 +48,4 @@ Ao configurar uma pesquisa com Azure Cognitive Search, você pode aprender sobre
 - Uso de analisadores de texto e filtros de pesquisa para melhorar a relevância dos resultados.
 - Implementação de consultas avançadas e recursos de pesquisa para uma experiência de usuário aprimorada.
 
-Este guia fornece uma visão geral do processo de configuração de pesquisa com Azure Cognitive Search e destaca os insights, possibilidades de ferramentas e aprendizados adquiridos durante o processo.
+
